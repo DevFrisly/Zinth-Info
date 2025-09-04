@@ -62,7 +62,7 @@ Zinth is built with ❤️ by **Frisly** — a project made for creators, by a c
 
 ✨ Still stuck? Reach out anytime:  
 - 📩 Email: frislybusiness@gmail.com  
-- 🌸 Instagram: [@yourusername](https://instagram.com/frisly.ti)  
+- 🌸 Instagram: [@frisly.ti](https://instagram.com/frisly.ti)  
 - 💬 Discord: [Join here](https://discord.com/invite/2USR7aR7v5)  
 
 </div>
