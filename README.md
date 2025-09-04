@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![Website](https://img.shields.io/website?url=https://zinth.onrender.com/)  
-![Repo Size](https://img.shields.io/github/repo-size/username/zinth-info?style=for-the-badge&color=blueviolet)  
-![License](https://img.shields.io/github/license/username/zinth-info?style=for-the-badge&color=00c896)  
-
 
 </div>
 
@@ -44,9 +40,11 @@ It’s built for dreamers, makers, and innovators who want tools that feel **ali
 ## 📸 Screenshots
 
 <div align="center">
-<img src="assets/screenshot1.png" alt="Screenshot 1" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff69b4;"/>  
-<img src="assets/screenshot2.png" alt="Screenshot 2" width="280" style="border-radius:12px;box-shadow:0 0 10px #00c896;"/>  
-<img src="assets/screenshot3.png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff4500;"/>  
+<img src="assets/screenshots (5).png" alt="Screenshot 1" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff69b4;"/>  
+<img src="assets/screenshots (4).png" alt="Screenshot 2" width="280" style="border-radius:12px;box-shadow:0 0 10px #00c896;"/>  
+<img src="assets/screenshot (3).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff4500;"/>  
+<img src="assets/screenshot (2).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #0b4a92ff;"/>  
+<img src="assets/screenshot (1).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #430766ff;"/>  
 </div>
 
 ---
