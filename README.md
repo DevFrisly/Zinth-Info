@@ -42,9 +42,9 @@ It’s built for dreamers, makers, and innovators who want tools that feel **ali
 <div align="center">
 <img src="assets/screenshots (5).png" alt="Screenshot 1" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff69b4;"/>  
 <img src="assets/screenshots (4).png" alt="Screenshot 2" width="280" style="border-radius:12px;box-shadow:0 0 10px #00c896;"/>  
-<img src="assets/screenshot (3).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff4500;"/>  
-<img src="assets/screenshot (2).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #0b4a92ff;"/>  
-<img src="assets/screenshot (1).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #430766ff;"/>  
+<img src="assets/screenshots (3).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #ff4500;"/>  
+<img src="assets/screenshots (2).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #0b4a92ff;"/>  
+<img src="assets/screenshots (1).png" alt="Screenshot 3" width="280" style="border-radius:12px;box-shadow:0 0 10px #430766ff;"/>  
 </div>
 
 ---
