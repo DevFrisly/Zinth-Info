@@ -18,7 +18,7 @@ Just visit [zinth.onrender.com](https://zinth.onrender.com/) and drag in your `.
 ### 🔹 My file is too large, what should I do?
 - Try splitting the `.mrpack` into smaller parts if possible.  
 - Ensure your internet connection is stable.  
-- If the issue continues, reach out via [Email](mailto:frislybusiness@gmail.com) or [Discord](https://discord.gg/yourserverlink).
+- If the issue continues, reach out via [Email](mailto:frislybusiness@gmail.com) or [Discord](https://discord.com/invite/2USR7aR7v5).
 
 ---
 
@@ -62,7 +62,7 @@ Zinth is built with ❤️ by **Frisly** — a project made for creators, by a c
 
 ✨ Still stuck? Reach out anytime:  
 - 📩 Email: frislybusiness@gmail.com  
-- 🌸 Instagram: [@yourusername](https://instagram.com/yourusername)  
-- 💬 Discord: [Join here](https://discord.gg/yourserverlink)  
+- 🌸 Instagram: [@yourusername](https://instagram.com/frisly.ti)  
+- 💬 Discord: [Join here](https://discord.com/invite/2USR7aR7v5)  
 
 </div>
