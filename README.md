@@ -52,6 +52,7 @@ It’s built for dreamers, makers, and innovators who want tools that feel **ali
 ## 📚 Documentation
 
 - [📖 Tutorial](docs/usage.md)  
+- [❓ FAQs](docs/faq.md)  
 
 ---
 
