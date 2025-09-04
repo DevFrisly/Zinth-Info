@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fusername.github.io%2Fzinth&style=for-the-badge&logo=google-chrome&logoColor=white&label=LIVE%20DEMO&color=ff69b4)  
+![Website](https://img.shields.io/website?url=https://zinth.onrender.com/)  
 ![Repo Size](https://img.shields.io/github/repo-size/username/zinth-info?style=for-the-badge&color=blueviolet)  
 ![License](https://img.shields.io/github/license/username/zinth-info?style=for-the-badge&color=00c896)  
-![Last Commit](https://img.shields.io/github/last-commit/username/zinth-info?style=for-the-badge&color=ff4500)
+
 
 </div>
 
